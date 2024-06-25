@@ -13,6 +13,17 @@
 		1508CCFE2C262EE500D1BCB0 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1508CCFD2C262EE500D1BCB0 /* Base */; };
 		1508CD002C262EE700D1BCB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1508CCFF2C262EE700D1BCB0 /* Assets.xcassets */; };
 		1508CD032C262EE700D1BCB0 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD022C262EE700D1BCB0 /* Base */; };
+		1508CD152C2631B800D1BCB0 /* boris-stromar-Gi4P7NIcvnI-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD0A2C2631B700D1BCB0 /* boris-stromar-Gi4P7NIcvnI-unsplash.jpg */; };
+		1508CD162C2631B800D1BCB0 /* johannes-plenio-E-Zuyev2XWo-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD0B2C2631B700D1BCB0 /* johannes-plenio-E-Zuyev2XWo-unsplash.jpg */; };
+		1508CD172C2631B800D1BCB0 /* mehdi-messrro-exhb-BWuOdk-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD0C2C2631B700D1BCB0 /* mehdi-messrro-exhb-BWuOdk-unsplash.jpg */; };
+		1508CD182C2631B800D1BCB0 /* noaa--MqYZUQ-mbs-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD0D2C2631B700D1BCB0 /* noaa--MqYZUQ-mbs-unsplash.jpg */; };
+		1508CD192C2631B800D1BCB0 /* noaa-IaRgDQiF36Q-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD0E2C2631B700D1BCB0 /* noaa-IaRgDQiF36Q-unsplash.jpg */; };
+		1508CD1A2C2631B800D1BCB0 /* noaa-jU-JOEZ2saQ-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD0F2C2631B700D1BCB0 /* noaa-jU-JOEZ2saQ-unsplash.jpg */; };
+		1508CD1B2C2631B800D1BCB0 /* noaa-ZVhm6rEKEX8-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD102C2631B700D1BCB0 /* noaa-ZVhm6rEKEX8-unsplash.jpg */; };
+		1508CD1C2C2631B800D1BCB0 /* photo-1573996636238-5ada5903321a.avif in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD112C2631B700D1BCB0 /* photo-1573996636238-5ada5903321a.avif */; };
+		1508CD1D2C2631B800D1BCB0 /* sam-schooler-E9aetBe2w40-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD122C2631B700D1BCB0 /* sam-schooler-E9aetBe2w40-unsplash.jpg */; };
+		1508CD1E2C2631B800D1BCB0 /* tobias-Veq-hYhLbro-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1508CD132C2631B700D1BCB0 /* tobias-Veq-hYhLbro-unsplash.jpg */; };
+		1508CD452C2A743800D1BCB0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1508CD442C2A743800D1BCB0 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		1508CCFF2C262EE700D1BCB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1508CD022C262EE700D1BCB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1508CD042C262EE700D1BCB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1508CD0A2C2631B700D1BCB0 /* boris-stromar-Gi4P7NIcvnI-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "boris-stromar-Gi4P7NIcvnI-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD0B2C2631B700D1BCB0 /* johannes-plenio-E-Zuyev2XWo-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "johannes-plenio-E-Zuyev2XWo-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD0C2C2631B700D1BCB0 /* mehdi-messrro-exhb-BWuOdk-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mehdi-messrro-exhb-BWuOdk-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD0D2C2631B700D1BCB0 /* noaa--MqYZUQ-mbs-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "noaa--MqYZUQ-mbs-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD0E2C2631B700D1BCB0 /* noaa-IaRgDQiF36Q-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "noaa-IaRgDQiF36Q-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD0F2C2631B700D1BCB0 /* noaa-jU-JOEZ2saQ-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "noaa-jU-JOEZ2saQ-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD102C2631B700D1BCB0 /* noaa-ZVhm6rEKEX8-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "noaa-ZVhm6rEKEX8-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD112C2631B700D1BCB0 /* photo-1573996636238-5ada5903321a.avif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "photo-1573996636238-5ada5903321a.avif"; sourceTree = "<group>"; };
+		1508CD122C2631B700D1BCB0 /* sam-schooler-E9aetBe2w40-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sam-schooler-E9aetBe2w40-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD132C2631B700D1BCB0 /* tobias-Veq-hYhLbro-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tobias-Veq-hYhLbro-unsplash.jpg"; sourceTree = "<group>"; };
+		1508CD442C2A743800D1BCB0 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +81,31 @@
 				1508CCF62C262EE500D1BCB0 /* AppDelegate.swift */,
 				1508CCF82C262EE500D1BCB0 /* SceneDelegate.swift */,
 				1508CCFA2C262EE500D1BCB0 /* ViewController.swift */,
+				1508CD442C2A743800D1BCB0 /* DetailViewController.swift */,
 				1508CCFC2C262EE500D1BCB0 /* Main.storyboard */,
 				1508CCFF2C262EE700D1BCB0 /* Assets.xcassets */,
 				1508CD012C262EE700D1BCB0 /* LaunchScreen.storyboard */,
 				1508CD042C262EE700D1BCB0 /* Info.plist */,
+				1508CD142C2631B700D1BCB0 /* Content */,
 			);
 			path = stormViewer;
+			sourceTree = "<group>";
+		};
+		1508CD142C2631B700D1BCB0 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				1508CD0A2C2631B700D1BCB0 /* boris-stromar-Gi4P7NIcvnI-unsplash.jpg */,
+				1508CD0B2C2631B700D1BCB0 /* johannes-plenio-E-Zuyev2XWo-unsplash.jpg */,
+				1508CD0C2C2631B700D1BCB0 /* mehdi-messrro-exhb-BWuOdk-unsplash.jpg */,
+				1508CD0D2C2631B700D1BCB0 /* noaa--MqYZUQ-mbs-unsplash.jpg */,
+				1508CD0E2C2631B700D1BCB0 /* noaa-IaRgDQiF36Q-unsplash.jpg */,
+				1508CD0F2C2631B700D1BCB0 /* noaa-jU-JOEZ2saQ-unsplash.jpg */,
+				1508CD102C2631B700D1BCB0 /* noaa-ZVhm6rEKEX8-unsplash.jpg */,
+				1508CD112C2631B700D1BCB0 /* photo-1573996636238-5ada5903321a.avif */,
+				1508CD122C2631B700D1BCB0 /* sam-schooler-E9aetBe2w40-unsplash.jpg */,
+				1508CD132C2631B700D1BCB0 /* tobias-Veq-hYhLbro-unsplash.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +166,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1508CD172C2631B800D1BCB0 /* mehdi-messrro-exhb-BWuOdk-unsplash.jpg in Resources */,
+				1508CD162C2631B800D1BCB0 /* johannes-plenio-E-Zuyev2XWo-unsplash.jpg in Resources */,
+				1508CD1C2C2631B800D1BCB0 /* photo-1573996636238-5ada5903321a.avif in Resources */,
 				1508CD002C262EE700D1BCB0 /* Assets.xcassets in Resources */,
 				1508CD032C262EE700D1BCB0 /* Base in Resources */,
+				1508CD1E2C2631B800D1BCB0 /* tobias-Veq-hYhLbro-unsplash.jpg in Resources */,
+				1508CD192C2631B800D1BCB0 /* noaa-IaRgDQiF36Q-unsplash.jpg in Resources */,
 				1508CCFE2C262EE500D1BCB0 /* Base in Resources */,
+				1508CD182C2631B800D1BCB0 /* noaa--MqYZUQ-mbs-unsplash.jpg in Resources */,
+				1508CD1B2C2631B800D1BCB0 /* noaa-ZVhm6rEKEX8-unsplash.jpg in Resources */,
+				1508CD1D2C2631B800D1BCB0 /* sam-schooler-E9aetBe2w40-unsplash.jpg in Resources */,
+				1508CD1A2C2631B800D1BCB0 /* noaa-jU-JOEZ2saQ-unsplash.jpg in Resources */,
+				1508CD152C2631B800D1BCB0 /* boris-stromar-Gi4P7NIcvnI-unsplash.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +192,7 @@
 				1508CCFB2C262EE500D1BCB0 /* ViewController.swift in Sources */,
 				1508CCF72C262EE500D1BCB0 /* AppDelegate.swift in Sources */,
 				1508CCF92C262EE500D1BCB0 /* SceneDelegate.swift in Sources */,
+				1508CD452C2A743800D1BCB0 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,8 +349,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -306,9 +358,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.ferin.chowarun.stormViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -324,8 +380,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -333,9 +389,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.ferin.chowarun.stormViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
