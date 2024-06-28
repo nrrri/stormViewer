@@ -24,10 +24,11 @@ class ViewController: UITableViewController {
             if item.hasSuffix("jpg") {
                 // this is a picture to load!
                 pictures.append(item)
+                pictures.sort()
             }
         }
         
-        print(pictures)
+//        print(pictures)
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
